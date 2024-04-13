@@ -58,11 +58,12 @@
 
 .calculator-button.orange:hover {
   background-color: rgb(251, 199, 142);
-  color: rgb(255, 159, 10);
+  color: rgb(255, 255, 227);
 }
 
 .calculator-button.orange:active {
   background-color: rgb(255, 255, 227);
+  color: rgb(255, 159, 10);
 
 }
 
@@ -78,3 +79,4 @@
 .calculator-button.gray:active {
   background-color: rgb(255, 255, 255);
 }
+
